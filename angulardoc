@@ -1,0 +1,6 @@
+Como instalar o Angular Cli
+npm install -g @angular/cli
+Como mostrar a versao do Angular
+ng version
+
+
