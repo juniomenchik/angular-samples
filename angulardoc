@@ -1,6 +1,10 @@
 Como instalar o Angular Cli
-npm install -g @angular/cli
+$npm install -g @angular/cli
 Como mostrar a versao do Angular
-ng version
+$ng version
+Para iniciar o Servidor 
+$ng serve
 
-
+Main Entry File 
+    o primeiro arquivo que é iniciado.
+     src/main.ts     
